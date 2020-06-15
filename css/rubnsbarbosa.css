@@ -58,7 +58,7 @@ a:link, a:visited {
   position: fixed;
   left: 58%;
   transform:translateX(-50%);
-  bottom: 120px !important;
+  bottom: 80px !important;
 }
 
 #img-redes ul li { display: inline; }
